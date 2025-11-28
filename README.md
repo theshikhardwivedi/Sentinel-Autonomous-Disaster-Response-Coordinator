@@ -40,7 +40,7 @@ The system is composed of five specialized agents:
 
 A visual representation of the agent workflow and data pipeline.
 
-[Image of a detailed multi-agent system architecture diagram]
+<img width="1024" height="1024" alt="sentinel_architecture" src="https://github.com/user-attachments/assets/5077820f-2927-4914-b8b4-f77637751611" />
 
 -----
 
@@ -79,7 +79,7 @@ You will need the following installed:
 The entire system is executed through the main Jupyter Notebook.
 
 1.  **Setup Environment:** Ensure your `GOOGLE_API_KEY` is set.
-2.  **Open Notebook:** Open `sentinel-ai-disaster-response-coordinator.ipynb`.
+2.  **Open Notebook:** Open `/notebook/sentinel-ai-disaster-response-coordinator.ipynb`.
 3.  **Run Cells Sequentially:** Execute the cells from top to bottom. The notebook demonstrates the full flow, from data ingestion to the final generated **Incident Command Report**.
 
 -----
