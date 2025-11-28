@@ -1,6 +1,8 @@
-## 🌍 Sentinel: AI Disaster Response Coordinator
+# 🌍 Sentinel: AI Disaster Response Coordinator
+
 
 ### **A Multi-Agent System for Real-Time Crisis Management**
+
 
 [](https://www.python.org/)
 [](https://www.google.com/search?q=https://ai.google/gemini-api)
@@ -59,7 +61,7 @@ You will need the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/theshikhardwivedi/sentinel-ai-disaster-response-coordinator.git
+    git clone https://github.com/theshikhardwivedi/Sentinel-AI-Disaster-Response-Coordinator.git
     cd sentinel-ai-disaster-response-coordinator
     ```
 
@@ -98,5 +100,5 @@ Contributions are what make the open-source community an amazing place to learn,
 
 **Shikhar Dwivedi**
 
-  * Kaggle: [@theshikhardwivedi](https://www.google.com/search?q=https://www.kaggle.com/theshikhardwivedi)
-  * GitHub: [@theshikhardwivedi](https://www.google.com/search?q=https://github.com/%5Btheshikhardwivedi%5D)
+  * Kaggle: [@theshikhardwivedi](https://www.kaggle.com/code/theshikhardwivedi/sentinel-ai-disaster-response-coordinator)
+  * GitHub: [@theshikhardwivedi](https://github.com/theshikhardwivedi/Sentinel-AI-Disaster-Response-Coordinator.git)
