@@ -1,15 +1,19 @@
-# Core dependencies for the Gemini Agent (Sentinel)
-google-genai
-google-adk
+# --- Sentinel Project Requirements ---
+
+# Core dependencies for the Gemini Agent
+google-generativeai  
+pydantic             
 
 # Retrieval-Augmented Generation (RAG) components
 sentence-transformers
 faiss-cpu
 numpy
+
+# Multimodal/Vision Dependencies (used for the Vision Tool)
 Pillow
 requests
 pytesseract
 
-# Utilities (Good to include for local testing/robustness)
+# Utilities for Jupyter/Local Testing (Recommended for robustness)
 python-dotenv
 nest-asyncio
