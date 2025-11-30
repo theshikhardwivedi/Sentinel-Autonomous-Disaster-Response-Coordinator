@@ -1,14 +1,15 @@
 # Core dependencies for the Gemini Agent (Sentinel)
-
 google-genai
 google-adk
 
 # Retrieval-Augmented Generation (RAG) components
-
 sentence-transformers
 faiss-cpu
+numpy
+Pillow
+requests
+pytesseract
 
-# Utilities
-
-python-dotenv # Used to load environment variables (.env file)
-nest-asyncio # Utility for running async code in environments like Jupyter/Colab
+# Utilities (Good to include for local testing/robustness)
+python-dotenv
+nest-asyncio
